@@ -1,5 +1,3 @@
-Generate_positions.py:
-
 import pandas as pd
 
 # Function to generate regions.txt from a TSV file
